@@ -1,0 +1,4 @@
+SPC01#General Practitioners#60000#
+SPC02#Ophthalmologists#120000#
+SPC03#Dentist#80000#
+SPC04#THT#120000#

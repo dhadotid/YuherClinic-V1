@@ -1,0 +1,112 @@
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\Yuher Clinic.exe.config
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\Yuher Clinic.exe
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\Yuher Clinic.pdb
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher Clinic.csprojResolveAssemblyReference.cache
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminDoctor.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminLogin.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminMenu.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FMenu.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.Properties.Resources.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher Clinic.csproj.GenerateResource.Cache
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher Clinic.exe
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher Clinic.pdb
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminSpecialist.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierLogin.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierMenu.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierPatient.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminAddAccountCashier.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminCashier.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminChangePasswordCashier.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminDeleteAccountCashier.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminDrugs.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminPatient.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierListDoctor.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierPayment.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierRecipe.resources
+c:\users\dhadotid\documents\visual studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierTreatment.resources
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminPaymentHistory.resources
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminSearch.resources
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminReport.resources
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminReportPayment.resources
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\FlashControlV71.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\bin\Debug\stdole.dll
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminReportDrug.resources
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminReportPatient.resources
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminSearchRecipe.resources
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminSearchTreatment.resources
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierReciptPayment.resources
+C:\Users\dhadotid\Documents\Visual Studio 2015\Projects\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierCardPatient.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\Yuher Clinic.exe.config
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher Clinic.exe
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher Clinic.pdb
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\Yuher Clinic.exe
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\Yuher Clinic.pdb
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.Shared.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\FlashControlV71.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\ShockwaveFlashObjects.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\bin\Debug\stdole.dll
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher Clinic.csprojResolveAssemblyReference.cache
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminAddAccountCashier.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminCashier.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminChangePasswordCashier.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminDeleteAccountCashier.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminDoctor.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminDrugs.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminLogin.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminMenu.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminPatient.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminPaymentHistory.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminReport.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminReportDrug.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminReportPatient.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminReportPayment.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminSearch.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminSearchRecipe.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminSearchTreatment.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FAdminSpecialist.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierCardPatient.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierListDoctor.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierLogin.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierMenu.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierPatient.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierPayment.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierRecipe.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierReciptPayment.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FCashierTreatment.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.FMenu.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher_Clinic.Properties.Resources.resources
+D:\CCIT-FTUI\Project\2SC2\Q3\Q3M2\Yuher Clinic [Kelompok 5] [2SC2]\Yuher Clinic\Yuher Clinic\obj\Debug\Yuher Clinic.csproj.GenerateResource.Cache

@@ -1,0 +1,3 @@
+DRG00001#Frovatriptan#Tablet#2165#12/02/2022#200#
+DRG00002#Eletriptan#Capsule#3183#12/02/2019#300#
+DRG00003#Mixagrip#Tablet#2087#27/05/2020#250#
